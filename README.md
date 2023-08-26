@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm G.Naveen</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 
-- 👋 Hi I'm **G.Naveen**
-
 - 👯 I’m looking to collaborate with **New things**
 
 - 🌱 I’m currently pursing **B.E(CSE) in Jaya Engineering College**
