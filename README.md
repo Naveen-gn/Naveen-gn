@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm G.Naveen</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnVnY3YydHhvMnhuZ3pyYW5ocnVsN3k1a3BvODQ3aHJhMXBqc21rcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen-gn&label=Profile%20views&color=0e75b6&style=flat" alt="naveen-gn" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveen-gn" alt="naveen-gn" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@naveen12gn" target="blank"><img src="https://img.shields.io/twitter/follow/@naveen12gn?logo=twitter&style=for-the-badge" alt="@naveen12gn" /></a> </p>
 
 - 👋 Hi I'm **G.Naveen**
 
