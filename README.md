@@ -30,7 +30,7 @@
 
 ## My Status:
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Naveen-gn&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+<img height="200px" src="https://github-readme-status.vercel.app/api?username=Naveen-gn&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
 
