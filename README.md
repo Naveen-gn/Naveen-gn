@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveen-gn&show_icons=true&locale=en" alt="naveen-gn" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveen-gn&" alt="naveen-gn" /></p>
+
 
 ## Activity On GitHub
 
