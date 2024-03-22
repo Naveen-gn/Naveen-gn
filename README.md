@@ -35,7 +35,7 @@
 </p>
 
 
-## Activity On GitHub
+## Activity On GitHub:
 
 <p align="center">
   <a href="https://github.com/Naveen-gn">      
