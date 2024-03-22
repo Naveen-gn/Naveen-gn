@@ -18,9 +18,9 @@
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100022489606274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100022489606274" height="30" width="40" /></a>
 </p>
 
-## Languages and Tools
+## Languages and Tools:
 
-<p align="left"> <a href="https://github.com/Naveen-gn"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite,redux,bootstrap,tailwindcss,nodejs,express,mongodb,firebase,mysql,python,java,c,vscode,github,git,windows,linux,kali,redhat,postman,npm,figma,vercel,netlify"> </a> </p>
+<p align="left"> <a href="https://github.com/Naveen-gn"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite,redux,bootstrap,tailwindcss,nodejs,express,mongodb,firebase,mysql,python,java,c,vscode,github,git,windows,linux,kali,redhat,postman,npm,figma,vercel,netlify,stackoverflow,linkedin,codepen"> </a> </p>
 
 ## Most Used Languages:
 <p align="center">
