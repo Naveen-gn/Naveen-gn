@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Fullstack+Developer;Open+Source+Contributor;MERN+Stack+Developer%7C;Software+Developer+;Programmer" alt="Typing SVG" /></a>
 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/naveen-portfolio-images.appspot.com/o/portfolio.png?alt=media&token=bc42d39b-79b0-4f5b-8395-a359d60cb0c6">
+<img align="right" alt="Coding"  src="https://firebasestorage.googleapis.com/v0/b/naveen-portfolio-images.appspot.com/o/portfolio.png?alt=media&token=bc42d39b-79b0-4f5b-8395-a359d60cb0c6">
 
 - 👯 I’m looking to collaborate with **New things**
 
