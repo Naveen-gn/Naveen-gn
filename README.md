@@ -20,7 +20,7 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/Naveen-gn"><img src="https://skillicons.dev/icons?i=vscode,github,html,css,js,react,bootstrap,tailwindcss,nodejs,express,mongodb,firebase,mysql,python,java,c"> </a> </p>
+<p align="left"> <a href="https://github.com/Naveen-gn"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite,redux,bootstrap,tailwindcss,nodejs,express,mongodb,firebase,mysql,python,java,c,vscode,github,git,windows,linux,kali,redhat,postman,npm,figma,vercel,netlify"> </a> </p>
 
 ## Most Used Languages:
 <p align="center">
