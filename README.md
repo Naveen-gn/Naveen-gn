@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Naveen</h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Fullstack+Developer;Open+Source+Contributer;MERN+Stack+Developer%7C;Software+Developer+;Programmer" alt="Typing SVG" /></a>
 </p>
