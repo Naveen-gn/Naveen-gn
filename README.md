@@ -24,7 +24,10 @@
 
 <p align="center"> <a href="https://github.com/Naveen-gn"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite,redux,bootstrap,tailwindcss,nodejs,express,mongodb,firebase,mysql,python,java,c,vscode,github,git,windows,linux,kali,redhat,postman,npm,figma,vercel,netlify,stackoverflow,linkedin"> </a> </p>
 
-
+## Most Used Languages:
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen-gn&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="naveen-gn" />
+</p>
 
 
 ## My Status:
