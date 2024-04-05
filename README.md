@@ -39,8 +39,10 @@
 ## Activity On GitHub:
 
 <p align="center">
-  <a href="https://github.com/Naveen-gn">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-gn&theme=dark&stroke=f53b3b"/>
+  <a href="https://github.com/Naveen-gn"> 
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Naveen-gn&count_private=true&theme=dark&border_radius=10&stroke=f53b3b" alt="streak stats"/>
+
+
 </a> 
 </p>
 
