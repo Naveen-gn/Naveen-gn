@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" height="250" width="250" src="https://raw.githubusercontent.com/Naveen-gn/Naveen-gn/main/portfolio.png">
 
-- 👯 I’m looking to collaborate with **New things**
+- 🚀 I’m looking to collaborate with **New things**
 
 - 🌱 I’m currently pursing **B.E(CSE) in Jaya Engineering College**
 
